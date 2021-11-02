@@ -13,3 +13,4 @@ The model was deployed with flask framework and Flask API was created using hero
 
 For EDA and Model Building refer - alexa_reviews_sentiment_analysis_using_nlp.ipynb
 For Deployment refer - app.py
+Flask API - https://alexa-amazon-reviews-api.herokuapp.com/
